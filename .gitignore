@@ -1,0 +1,22 @@
+# Objects directories - Files
+objs
+*.o
+*.txt
+*.d
+
+# Static libraries - Headers
+*.a
+*.gch
+lib*
+
+# Executables - Scripts
+a.out
+ft_ping
+
+# Debug
+*.dSYM
+
+# Recovery
+*.swp
+*.swo
+.DS_Store
